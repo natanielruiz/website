@@ -1,5 +1,5 @@
 baseurl = "https://natanielruiz.github.io/"  # End your URL with a `/` trailing slash.
-title = "Academic"
+title = "Nataniel Ruiz"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Nataniel Ruiz"
+  role = "Graduate Student in Computer Science"
+  organization = "Georgia Tech - Ecole Polytechnique"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "tedx_me.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "nataniel.ruiz@gatech.edu"
+  address = ""
+  office_hours = ""
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -126,22 +126,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "nataniel.ruiz@gatech.edu"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.linkedin.com/in/nataniel-ruiz/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/natanielruiz"
 
 
 # Navigation Links
