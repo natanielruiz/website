@@ -24,14 +24,13 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Face Analysis"
+  tag = ".face-analysis"
+
+[[filter]]
+  name = "Object Detection"
+  tag = ".object-detection"
 
 +++
-
