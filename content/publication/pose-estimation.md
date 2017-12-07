@@ -11,7 +11,7 @@ publication_short = ""
 selected = true
 title = "Fine-Grained Head Pose Estimation Without Keypoints"
 url_code = ""
-url_pdf = "https://drive.google.com/open?id=0B2fFW2t9-qW3YUhGY1FFVE9xOEk"
+url_pdf = "https://arxiv.org/abs/1710.00925"
 url_project = ""
 url_slides = ""
 url_video = ""

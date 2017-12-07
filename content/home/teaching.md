@@ -24,6 +24,4 @@ A list of the courses that I took at Georgia Tech and the grades I obtained:
 - [CS 7641 Machine Learning](https://www.cc.gatech.edu/~lsong/teaching/CSE6740fall16.html) with [Le Song](https://www.cc.gatech.edu/~lsong/index.html), B
 - [Special Problems Project](https://github.com/natanielruiz/android-yolo) with [James M. Rehg](http://rehg.org/), A
 
-GPA 3.88 / 4.0
-
 I was hired to work as a Graduate Research Assistant for [James M. Rehg](http://rehg.org/) after my first semester project and continue to work on research with the Egocentric Vision and Behavioral Imaging groups at Dr. Rehg's laboratory.
